@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# weather-app-assignment
+# General info
+
+- The project is based on React Framework.
+- I used axios library for api calls and basic jsx and es6 for displaying data.
+- Concerning styling, I used pure css - flexboxs e.t.c.
+
+**** In order to fetch current data , you need to search the city to the search bar and press Enter.
+**** Because of some issues we discussed through emails, I used dump data for 2 tasks.
